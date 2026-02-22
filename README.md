@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm Victoria 👋 
 
 ### 🤖 Computer Engineering Student | Robotics Enthusiast | AI Explorer
 
