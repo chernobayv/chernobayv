@@ -26,8 +26,16 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 **this week's coding breakdown:**
 
 ```
-{{ wakatimeDoubleCategoryBar "languages:" wakatimeData.Languages "projects:" wakatimeData.Projects 5 }}
-```
+languages:
+{{ range wakatimeData.Languages | chunk 5 | first }}
+- {{ .Name }}: {{ .Percent }}%
+{{- end}}
+
+projects:
+{{ range wakatimeData.Projects | chunk 5 | first }}
+- {{ .Name }}: {{ .Percent }}%
+{{- end}}```
+
 **updates every 6 hrs on the hour :P
 
 ---
