@@ -23,8 +23,19 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 
 ---
 
-![my hackatime stats](https://hackatime-badge.hackclub.com/vicka/wakatime-stats)
+languages:
+JavaScript   1h 55m 1s   ███████████████░░░░░░░░░░  57.62%
+HTML         46m 21s     ██████░░░░░░░░░░░░░░░░░░░  23.22%
+CSS          24m 9s      ████░░░░░░░░░░░░░░░░░░░░░  12.10%
+Text         7m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.66%
+Text         4m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.00%
+
+projects:
+hackclub     2h 3m 57s   ███████████████████████░░  92.00%
+welcome      4m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.97%
+unknown      4m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.97%
+cps188       2m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
 
 ---
 
-[linkedin](https://linkedin.com/in/chernobayv) · [portfolio](https://chernobayv.github.io/portfolio) · [email](mailto:chernobayv05@gmail.com)
+[linkedin](https://linkedin.com/in/chernobayv) · [portfolio](https://chernobayv.tech) · [email](mailto:chernobayv05@gmail.com)
