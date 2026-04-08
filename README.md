@@ -2,7 +2,7 @@
 
 comp eng @ TMU. currently interning at SAP's Physical AI Lab, where i'm building VLM prototypes that actually run on edge hardware with 4GB of RAM (yes, it's as painful as it sounds).
 
-i started an FRC robotics team from scratch! (s/o frc 9262!!!) 100+ students, $60k in sponsorships, a 120lb robot, and somehow a top 10 national finish in our 24 season. before that i had no idea what PID control was. now i dream in motor curves.
+i started an FRC robotics team from scratch! (s/o frc 9262!!!) 100+ students, $60k in sponsorships, a 120lb robot, and somehow a top 10 national finish in our 24 season. from starting the team w/ little experience to getting elected for youth council... it was a really fun time, and something that solidified what i aim for as a careeer
 
 outside of engineering stuff: competitive figure skater. the footwork patterns and the debugging sessions are more similar than you'd think.
 
