@@ -33,7 +33,7 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 - {{ .Name }}: {{ .Percent }}%
 {{- end}}
 
-**updates every 6 hrs on the hour :P**
+**updates every 6 hrs on the hour :P
 
 ---
 
