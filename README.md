@@ -4,12 +4,12 @@ comp eng @ TMU. currently interning at SAP's Physical AI Lab, where i'm building
 
 i started an FRC robotics team from scratch! (s/o frc 9262!!!) 100+ students, $60k in sponsorships, a 120lb robot, and somehow a top 10 national finish in our 24 season. from starting the team w/ little experience to getting elected for youth council... it was a really fun time, and something that solidified what i aim for as a careeer
 
-outside of engineering stuff: competitive figure skater. the footwork patterns and the debugging sessions are more similar than you'd think.
+outside of engineering stuff: i love to dance + figure skate. memorizing footwork and debugging code are more similar than you'd think :>
 
 ---
 
 **what i'm working with:**
-embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vision (OpenCV, MediaPipe) · LLM integration · WPILib · Docker · SAP BTP
+embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vision (OpenCV, MediaPipe) · LLM integration · WPILib · Docker · SAP BTP · b2b Saas (ofc)
 
 ---
 
