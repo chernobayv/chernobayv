@@ -23,7 +23,7 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 
 ---
 
-![my hackatime stats](https://hackatime-badge.hackclub.com/vicka/wakatime-stats)
+{{ wakatimeDoubleCategoryBar "languages:" wakatimeData.Languages "projects:" wakatimeData.Projects 5 }}
 
 ---
 
