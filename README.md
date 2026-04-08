@@ -1,42 +1,34 @@
-# Victoria Chernobay
+# hi, i'm victoria 👋
 
-### Computer Engineering @ Toronto Metropolitan University 
-**Physical AI Lab Intern at SAP | FRC Founder | Figure Skater**
+comp eng @ TMU. currently interning at SAP's Physical AI Lab, where i'm building VLM prototypes that actually run on edge hardware with 4GB of RAM (yes, it's as painful as it sounds).
 
-I am a Computer Engineering student focused on the intersection of **Physical AI**, high-performance embedded systems, and robotics. My work ranges from architecting industrial VLM prototypes to leading large-scale engineering teams.
+i started an FRC robotics team from scratch! (s/o frc 9262) 100+ students, $60k in sponsorships, a 120lb robot, and somehow a top 10 national finish in 24 season. before that i had no idea what PID control was. now i dream in motor curves.
 
----
-
-## 🛠 Technical Toolkit
-
-* **Hardware & Embedded:** NVIDIA Jetson Nano/Dev Kits, Arduino, Raspberry Pi, CAN bus, PCB Wiring.
-* **Software & Languages:** Python (OpenCV, MediaPipe, NumPy), C/C++, Java (WPILib), Linux (Ubuntu).
-* **AI & Cloud:** SAP BTP, DeepSeek LLMs, GPT-4o, Google Gemini API, Docker.
-* **Design & Simulation:** SolidWorks, Onshape, Blender, Figma.
+outside of engineering stuff: competitive figure skater. the footwork patterns and the debugging sessions are more similar than you'd think.
 
 ---
 
-## 🚀 Key Engineering Projects
-
-### Physical AI & Affective Computing 
-* **VitalGroove (NVIDIA Jetson Nano):** Developed a system using MediaPipe Pose Estimation to trigger mechatronic feedback via custom serial handshakes between Python and C++.
-* **VLM Optimization:** Optimized Vision-Language Models to run efficiently within constrained 4GB RAM embedded environments.
-
-### Robotics Leadership
-* **FRC Team 9262 Founder:** Established a team of 100+ students, secured $60k in hardware sponsorships, and architected a 120lb competition robot with PID-controlled motor systems.
-* **Industrial Prototypes:** Integrating DeepSeek LLMs with Raspberry Pi hardware to bridge cloud logic with physical manufacturing.
+**what i'm working with:**
+embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vision (OpenCV, MediaPipe) · LLM integration · WPILib · Docker · SAP BTP · and b2b Saas ofc!
 
 ---
 
-## 📈 Engineering Impact
+**a few things i've built:**
 
-* **$300,000 Raised:** Delivered a keynote for FIRST Robotics Canada to fund youth STEM programs.
-* **National Ranking:** Led my robotics team to a Top 10 National finish in our debut season.
-* **Technical Education:** Provided LLM and API integration training to 100+ professional educators.
+`VitalGroove` — pose estimation on Jetson Nano that triggers mechatronic feedback in real time. the serial handshake between Python and C++ took way too long to get right
+
+`FRC 9262` — built the team, wrote the control systems, gave a keynote that raised $300k for youth STEM. wildest 3 years of my life
+
+`DeepSeek × RPi` — bridging cloud LLM logic to physical manufacturing hardware at SAP. still very much a work in progress
 
 ---
 
-## ❄️ Beyond the Lab
-When I'm not optimizing vision models, I'm training to compete in **figure skating**. I believe the discipline required for competitive athletics directly informs my approach to engineering.
+**this week's coding breakdown:**
 
-[LinkedIn](https://linkedin.com/in/chernobayv) | [Portfolio](https://chernobayv.github.io/portfolio) | [Email](mailto:chernobayv05@gmail.com)
+```
+{{ wakatimeDoubleCategoryBar "languages:" wakatimeData.Languages "projects:" wakatimeData.Projects 5 }}
+```
+
+---
+
+[linkedin](https://linkedin.com/in/chernobayv) · [portfolio](https://chernobayv.github.io/portfolio) · [email](mailto:chernobayv05@gmail.com)
