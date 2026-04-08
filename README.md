@@ -28,6 +28,7 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 ```
 {{ wakatimeDoubleCategoryBar "languages:" wakatimeData.Languages "projects:" wakatimeData.Projects 5 }}
 ```
+**updates every 6 hrs on the hour :P
 
 ---
 
