@@ -23,17 +23,7 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 
 ---
 
-**this week's coding breakdown:**
-
-{{ range (wakatimeData).Languages | chunk 5 | first }}
-- {{ .Name }}: {{ .Percent }}%
-{{- end}}
-
-{{ range (wakatimeData).Projects | chunk 5 | first }}
-- {{ .Name }}: {{ .Percent }}%
-{{- end}}
-
-**updates every 6 hrs on the hour :P
+![my hackatime stats](https://hackatime-badge.hackclub.com/vicka/wakatime-stats)
 
 ---
 
