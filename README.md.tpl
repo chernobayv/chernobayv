@@ -27,4 +27,4 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 
 ---
 
-[linkedin](https://linkedin.com/in/chernobayv) · [portfolio](https://chernobayv.github.io/portfolio) · [email](mailto:chernobayv05@gmail.com)
+[linkedin](https://linkedin.com/in/chernobayv) · [portfolio](https://chernobayv.tech) · [email](mailto:chernobayv05@gmail.com)
