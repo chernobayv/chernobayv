@@ -1,10 +1,8 @@
 name: Update README
-
 on:
   schedule:
     - cron: '0 */6 * * *' 
   workflow_dispatch: 
-
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -19,6 +17,6 @@ jobs:
           template: README.md.tpl
           writeTo: README.md
       - uses: stefanzweifel/git-auto-commit-action@v4
-  with:
-    commit_message: "update readme"
-    commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+        with:
+          commit_message: "update readme"
+          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
