@@ -23,22 +23,7 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 
 ---
 
-**this week's coding breakdown:**
-
-
-- JavaScript: 57.62%
-- HTML: 23.22%
-- CSS: 12.1%
-- Text: 3.66%
-- Text: 2%
-
-
-- hackclub: 92%
-- welcome: 2.97%
-- unknown: 2.97%
-- cps188: 2.07%
-
-**updates every 6 hrs on the hour :P
+![my hackatime stats](https://hackatime-badge.hackclub.com/vicka/wakatime-stats)
 
 ---
 
