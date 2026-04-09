@@ -2,14 +2,14 @@
 
 comp eng @ TMU. currently interning at SAP's Physical AI Lab, where i'm building VLM prototypes that actually run on edge hardware with 4GB of RAM (yes, it's as painful as it sounds).
 
-i started an FRC robotics team from scratch! (s/o frc 9262!!!) 100+ students, $60k in sponsorships, a 120lb robot, and somehow a top 10 national finish in our 24 season. from starting the team w/ little experience to getting elected for youth council... it was a really fun time, and something that solidified what i aim for as a careeer
+i started an FRC robotics team from scratch! (s/o frc 9262!!!) 100+ students, $60k in sponsorships, a 120lb robot, and somehow a top 10 national finish in our 24 season. before that i had no idea what PID control was. now i dream in motor curves.
 
-outside of engineering stuff: i love to dance + figure skate. memorizing footwork and debugging code are more similar than you'd think :>
+outside of engineering stuff: competitive figure skater. the footwork patterns and the debugging sessions are more similar than you'd think.
 
 ---
 
 **what i'm working with:**
-embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vision (OpenCV, MediaPipe) · LLM integration · WPILib · Docker · SAP BTP · b2b Saas (ofc)
+embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vision (OpenCV, MediaPipe) · LLM integration · WPILib · Docker · SAP BTP
 
 ---
 
@@ -27,19 +27,19 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 
 ```text
 languages:
-JavaScript   1h 55m 1s   ███████████████░░░░░░░░░░  57.62%
-HTML         46m 21s     ██████░░░░░░░░░░░░░░░░░░░  23.22%
-CSS          24m 9s      ████░░░░░░░░░░░░░░░░░░░░░  12.10%
-Text         7m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.66%
-Text         4m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.00%
+JavaScript   1h 58m 28s   ███████████████░░░░░░░░░░  56.67%
+HTML         50m 21s      ███████░░░░░░░░░░░░░░░░░░  24.09%
+CSS          26m 9s       ████░░░░░░░░░░░░░░░░░░░░░  12.51%
+Text         7m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.49%
+Text         4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.91%
 
 projects:
-hackclub     2h 3m 57s   ███████████████████████░░  92.00%
-welcome      4m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.97%
-unknown      4m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.97%
-cps188       2m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
+hackclub     2h 6m 30s    ████████████████████████░  92.15%
+welcome      4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
+unknown      4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
+cps188       2m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.03%
 
-Total: 2 hrs 18 mins
+Total: 2 hrs 20 mins
 ```
 
 ** updated every 6 hours :P
