@@ -27,17 +27,17 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 
 ```text
 languages:
-JavaScript   3h 41m 26s   ████████████░░░░░░░░░░░░░  47.50%
-Python       2h 11m 12s   ████████░░░░░░░░░░░░░░░░░  28.15%
-HTML         1h 1m 7s     ████░░░░░░░░░░░░░░░░░░░░░  13.11%
-CSS          30m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
-Text         18m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.88%
+JavaScript   3h 53m 22s   █████████████░░░░░░░░░░░░  48.61%
+Python       2h 13m 12s   ███████░░░░░░░░░░░░░░░░░░  27.75%
+HTML         1h 1m 7s     ████░░░░░░░░░░░░░░░░░░░░░  12.73%
+CSS          30m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
+Text         18m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.77%
 
 projects:
-hackclub     5h 56m 41s   █████████████████████████  98.89%
-welcome      4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.11%
+hackclub     6h 8m 39s    █████████████████████████  98.93%
+welcome      4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.07%
 
-Total: 6 hrs 3 mins
+Total: 6 hrs 15 mins
 ```
 
 ** updated every 6 hours :P
