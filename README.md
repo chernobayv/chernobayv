@@ -27,16 +27,12 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 
 ```text
 languages:
-JavaScript   1h 10m 49s   █████████████████░░░░░░░░  66.28%
-Python       33m 51s      ████████░░░░░░░░░░░░░░░░░  31.68%
-HTML         2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.87%
-CSS          8s           █░░░░░░░░░░░░░░░░░░░░░░░░  0.12%
-Text         3s           █░░░░░░░░░░░░░░░░░░░░░░░░  0.05%
+JavaScript   11m 55s   █████████████████████████  100.00%
 
 projects:
-hackclub     1h 33m 22s   █████████████████████████  100.00%
+hackclub     11m 57s   █████████████████████████  100.00%
 
-Total: 1 hrs 33 mins
+Total: 0 hrs 11 mins
 ```
 
 ** updated every 6 hours :P
