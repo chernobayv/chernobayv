@@ -27,12 +27,14 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 
 ```text
 languages:
-TypeScript   2m 0s   █████████████████████████  100.00%
+TypeScript   13m 12s   ██████████████████████░░░  86.84%
+JavaScript   2m 0s     ████░░░░░░░░░░░░░░░░░░░░░  13.16%
 
 projects:
-dep-graph    23s     █████████████████████████  100.00%
+LootBoard    12m 34s   █████████████████████████  97.04%
+dep-graph    23s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.96%
 
-Total: 0 hrs 2 mins
+Total: 0 hrs 16 mins
 ```
 
 ** updated every 6 hours :P
