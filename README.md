@@ -27,17 +27,10 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 
 ```text
 languages:
-PowerShell   12m 11s   ██████████░░░░░░░░░░░░░░░  39.09%
-unknown      9m 48s    ████████░░░░░░░░░░░░░░░░░  31.44%
-TypeScript   4m 0s     ████░░░░░░░░░░░░░░░░░░░░░  12.83%
-Markdown     2m 5s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.68%
-Python       2m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.42%
 
 projects:
-admorph-ai   18m 37s   ███████████████░░░░░░░░░░  57.08%
-LootBoard    14m 0s    ███████████░░░░░░░░░░░░░░  42.92%
 
-Total: 0 hrs 33 mins
+Total: 0 hrs 0 mins
 ```
 
 ** updated every 6 hours :P
