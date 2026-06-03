@@ -27,10 +27,12 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 
 ```text
 languages:
+JavaScript       4m 0s   █████████████████████████  100.00%
 
 projects:
+mappassgrabber   4m 0s   █████████████████████████  100.00%
 
-Total: 0 hrs 0 mins
+Total: 0 hrs 4 mins
 ```
 
 ** updated every 6 hours :P
