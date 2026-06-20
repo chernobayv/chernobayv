@@ -27,12 +27,10 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 
 ```text
 languages:
-Gosu                         9m 4s   █████████████████████████  100.00%
 
 projects:
-FIRSTwhatsappSchedulingBot   9m 4s   █████████████████████████  100.00%
 
-Total: 0 hrs 9 mins
+Total: 0 hrs 0 mins
 ```
 
 ** updated every 6 hours :P
