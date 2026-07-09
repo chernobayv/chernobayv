@@ -27,13 +27,13 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 
 ```text
 languages:
-HTML               7m 10s    █████████████░░░░░░░░░░░░  50.53%
-Markdown           7m 1s     █████████████░░░░░░░░░░░░  49.47%
+HTML               9m 10s    ███████████████░░░░░░░░░░  56.64%
+Markdown           7m 1s     ███████████░░░░░░░░░░░░░░  43.36%
 
 projects:
-sephira-pipeline   16m 11s   █████████████████████████  100.00%
+sephira-pipeline   18m 11s   █████████████████████████  100.00%
 
-Total: 0 hrs 16 mins
+Total: 0 hrs 18 mins
 ```
 
 ** updated every 6 hours :P
