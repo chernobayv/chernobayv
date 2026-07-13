@@ -27,18 +27,18 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 
 ```text
 languages:
-HTML                           28m 25s   ███████████████░░░░░░░░░░  56.09%
-Markdown                       12m 25s   ███████░░░░░░░░░░░░░░░░░░  24.51%
-unknown                        6m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  11.84%
-JavaScript                     2m 7s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.18%
-Python                         1m 43s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.39%
+HTML                           28m 25s   ████████████████░░░░░░░░░  62.25%
+Markdown                       7m 24s    █████░░░░░░░░░░░░░░░░░░░░  16.21%
+unknown                        6m 0s     ████░░░░░░░░░░░░░░░░░░░░░  13.14%
+JavaScript                     2m 7s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
+Python                         1m 43s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.76%
 
 projects:
-sephira-pipeline               25m 3s    ████████████████░░░░░░░░░  60.78%
-chern                          13m 47s   █████████░░░░░░░░░░░░░░░░  33.44%
-poverty-resilience-dashboard   2m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.78%
+sephira-pipeline               20m 2s    ██████████████░░░░░░░░░░░  55.34%
+chern                          13m 47s   ██████████░░░░░░░░░░░░░░░  38.08%
+poverty-resilience-dashboard   2m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.58%
 
-Total: 0 hrs 44 mins
+Total: 0 hrs 39 mins
 ```
 
 ** updated every 6 hours :P
