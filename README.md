@@ -29,9 +29,8 @@ embedded systems (NVIDIA Jetson, RPi, CAN bus) · Python + C/C++ · computer vis
 languages:
 
 projects:
-sephira-pipeline   2m 0s   █████████████████████████  100.00%
 
-Total: 0 hrs 2 mins
+Total: 0 hrs 0 mins
 ```
 
 ** updated every 6 hours :P
